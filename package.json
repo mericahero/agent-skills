@@ -1,0 +1,30 @@
+{
+  "name": "agent-skills",
+  "version": "1.1.0",
+  "description": "A collection of agent skills for AI coding assistants — meta-learning, requirement clarification, and more. Compatible with Trae, Claude Code, Cursor, and Codex.",
+  "license": "MIT",
+  "author": "mericahero",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mericahero/agent-skills.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "ai",
+    "skills",
+    "claude-code",
+    "trae",
+    "cursor",
+    "codex",
+    "meta-learning",
+    "socratic",
+    "requirement-clarification"
+  ],
+  "skills": [
+    "skills/systematic-learning",
+    "skills/pre-flight"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

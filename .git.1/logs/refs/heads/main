@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 6efeb4795acda232da19ffceb55bc217a0dbe083 meric <meric@users.noreply.github.com> 1786331860 +0000	commit (initial): feat: v1.0.0 — systematic-learning + pre-flight skills
+6efeb4795acda232da19ffceb55bc217a0dbe083 33e5bef72681af44ff985393f99b57d6dd8b5802 meric <meric@users.noreply.github.com> 1786332319 +0000	commit: chore: add publish script for local GitHub push
+33e5bef72681af44ff985393f99b57d6dd8b5802 07c8d86701fb446bf6e5776a2383d56d3c88044b meric <meric@users.noreply.github.com> 1786338444 +0000	commit: refactor: rename to agent-skills, restructure into skills/ directory
+07c8d86701fb446bf6e5776a2383d56d3c88044b 791c79b376039e14e55f606d98ab13b9c4355aab mericahero <mericahero@users.noreply.github.com> 1786339644 +0000	commit: fix: correct GitHub username to mericahero

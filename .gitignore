@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build output
+dist/
+build/
+*.zip
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# Trae workspace artifacts
+.trae/
+.screenshots/
+.trae-html-share-packages/
+.uploads/
+
+# Previous deliverables (not part of the skill source)
+numpy-pandas-guide/
+learning-methodology/
